@@ -1,0 +1,14 @@
+body {
+  min-width: 300px;
+}
+
+.App {
+  text-align: center;
+  width: 100%;
+  min-height: 100vh;
+  max-width: 1500px;
+  margin: auto;
+  position: relative;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
