@@ -6,8 +6,8 @@ Website for Mickies Dairy Bar in Madison, WI.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ```
 cd to a directory where you want the repo placed on your local machine
-git clone https://github.com/Nima1007/TrustLease.git
-cd TrustLease
+git clone https://github.com/svdorn/Mickies.git
+cd Mickies
 npm install
 ```
 To run the project run this instruction in your TrustLease folder.
@@ -21,4 +21,4 @@ npm start
 
 ## Deployment
 
-System to be deployed to AWS elastic beanstalk.
+System to be deployed to AWS elastic beanstalk or comparable hosting service.
